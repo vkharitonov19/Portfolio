@@ -1,4 +1,5 @@
 # Catering Moscow #
+[ipynb](https://github.com/vkharitonov19/Portfolio/blob/main/catering_moscow/catering_moscow.ipynb)
 ## Описание проекта ##
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации.
 ## Навыки: ##
