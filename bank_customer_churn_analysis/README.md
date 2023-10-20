@@ -1,7 +1,7 @@
-# Bank #
-[ipynb](https://github.com/vkharitonov19/Portfolio/blob/main/banks/banks.ipynb) [html](https://github.com/vkharitonov19/Portfolio/blob/main/banks/banks.html)
+# Анализ оттока клиентов банка #
+[ipynb](https://github.com/vkharitonov19/yandex_practicum/blob/main/bank_customer_churn_analysis/bank_customer_churn_analysis.ipynb) [html](https://github.com/vkharitonov19/yandex_practicum/blob/main/bank_customer_churn_analysis/bank_customer_churn_analysis.html)
 ## Описание проекта ##
-Необходимо проанализировать клиентов регионального банка и сегментируйте пользователей по количеству потребляемых продуктов, обращая особое внимание на отток.
+Анализ клиентов регионального банка, сегментация пользователей по количеству потребляемых продуктов
 ## Навыки: ##
 * python
 * pandas
