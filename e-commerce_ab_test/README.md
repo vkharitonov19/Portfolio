@@ -1,7 +1,7 @@
 # Проведение A/B теста в сфере e-commerce #
 [ipynb](https://github.com/vkharitonov19/Portfolio/blob/main/e-commerce_ab_test/e-commerce_ab_test.ipynb) [html](https://github.com/vkharitonov19/Portfolio/blob/main/e-commerce_ab_test/e-commerce_ab_test.html)
 ## Описание проекта ##
-Используя данные интернет-магазина необходимо приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами
+Приоритезация гипотез, оценка результатов A/B-тестирования
 ## Навыки ##
 * python
 * pandas
